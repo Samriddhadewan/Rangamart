@@ -1,9 +1,9 @@
-import { Button } from "@/shared/ui/Button"
+import { AppRouter } from "./providers"
 
 const App = () => {
   return (
     <>
-      <Button />
+      <AppRouter />
     </>
   )
 }
